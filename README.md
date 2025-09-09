@@ -91,8 +91,10 @@ Dataset Information
 **OUTPUT**
 
 **Training Loss Vs Iteration Plot:**
+
 <img width="763" height="560" alt="Screenshot 2025-09-09 090721" src="https://github.com/user-attachments/assets/ce0b0cb1-9745-4685-85e4-e3920a4e2774" />
 **Epoch Training:**
+
 <img width="655" height="747" alt="Screenshot 2025-09-09 092642" src="https://github.com/user-attachments/assets/357cf2ae-ce28-4168-beb7-9ff222f8e3ae" />
 
 
