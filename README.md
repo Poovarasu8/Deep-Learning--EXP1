@@ -9,7 +9,8 @@ To develop a neural network regression model for the given dataset.
 Regression problems involve predicting a continuous output variable based on input features. Traditional linear regression models often struggle with complex patterns in data. Neural networks, specifically feedforward neural networks, can capture these complex relationships by using multiple layers of neurons and activation functions. In this experiment, a neural network model is introduced with a single linear layer that learns the parameters weight and bias using gradient descent.
 
 **Neural Network Model**
-Include the neural network model diagram.
+<img width="1130" height="534" alt="Screenshot 2025-09-09 091742" src="https://github.com/user-attachments/assets/e9288558-38b1-4ad4-94cf-b028979ca2ae" />
+
 
 **DESIGN STEPS**
 
@@ -84,14 +85,17 @@ model.predict(X_n1_1)
 
 
 Dataset Information
-Include screenshot of the generated data
+<img width="555" height="767" alt="Screenshot 2025-09-09 091705" src="https://github.com/user-attachments/assets/a912abd8-f919-4ea6-8d1d-a7bc956f6fa5" />
 
 
 **OUTPUT**
 
-Training Loss Vs Iteration Plot Best Fit line plot Include your plot here
+### Training Loss Vs Iteration Plot: 
 <img width="763" height="560" alt="Screenshot 2025-09-09 090721" src="https://github.com/user-attachments/assets/ce0b0cb1-9745-4685-85e4-e3920a4e2774" />
+### Test Data Root Mean Squared Error:
+### New Sample Data Prediction:
 <img width="699" height="365" alt="Screenshot 2025-09-09 090732" src="https://github.com/user-attachments/assets/c2db3fa7-7210-41a0-86e0-539f1bff5ee7" />
+### Epoch Training:
 <img width="619" height="352" alt="Screenshot 2025-09-09 090747" src="https://github.com/user-attachments/assets/f6f66c5c-5d27-4c9e-88e3-d5a51145ead0" />
 
 
