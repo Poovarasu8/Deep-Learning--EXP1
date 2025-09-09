@@ -93,10 +93,7 @@ Dataset Information
 ### Training Loss Vs Iteration Plot: 
 <img width="763" height="560" alt="Screenshot 2025-09-09 090721" src="https://github.com/user-attachments/assets/ce0b0cb1-9745-4685-85e4-e3920a4e2774" />
 ### Test Data Root Mean Squared Error:
-### New Sample Data Prediction:
-<img width="699" height="365" alt="Screenshot 2025-09-09 090732" src="https://github.com/user-attachments/assets/c2db3fa7-7210-41a0-86e0-539f1bff5ee7" />
-### Epoch Training:
-<img width="619" height="352" alt="Screenshot 2025-09-09 090747" src="https://github.com/user-attachments/assets/f6f66c5c-5d27-4c9e-88e3-d5a51145ead0" />
+<img width="939" height="83" alt="Screenshot 2025-09-09 091905" src="https://github.com/user-attachments/assets/17f311f3-9126-49c5-889a-06e004347194" />
 
 
 **New Sample Data Prediction**
