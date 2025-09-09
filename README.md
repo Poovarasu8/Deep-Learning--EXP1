@@ -97,8 +97,6 @@ model.predict(X_n1_1)
 # Initialize the Model, Loss Function, and Optimizer
 
 
-**Dataset Information**
-
 <img width="555" height="767" alt="Screenshot 2025-09-09 091705" src="https://github.com/user-attachments/assets/a912abd8-f919-4ea6-8d1d-a7bc956f6fa5" />
 
 
