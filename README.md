@@ -90,9 +90,10 @@ Dataset Information
 
 **OUTPUT**
 
-### Training Loss Vs Iteration Plot: 
+###Training Loss Vs Iteration Plot:
 <img width="763" height="560" alt="Screenshot 2025-09-09 090721" src="https://github.com/user-attachments/assets/ce0b0cb1-9745-4685-85e4-e3920a4e2774" />
-### Test Data Root Mean Squared Error:
+
+###Test Data Root Mean Squared Error:
 <img width="939" height="83" alt="Screenshot 2025-09-09 091905" src="https://github.com/user-attachments/assets/17f311f3-9126-49c5-889a-06e004347194" />
 
 
