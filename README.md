@@ -96,11 +96,15 @@ Dataset Information
 **Epoch Training:**
 
 <img width="655" height="747" alt="Screenshot 2025-09-09 092642" src="https://github.com/user-attachments/assets/357cf2ae-ce28-4168-beb7-9ff222f8e3ae" />
+**Test Data Root Mean Squared Error:**
+
+<img width="672" height="135" alt="Screenshot 2025-09-09 092944" src="https://github.com/user-attachments/assets/fe0eda75-5936-4ca5-9d32-4c686751c932" />
+ **New Sample Data Prediction:**
+
+<img width="532" height="165" alt="Screenshot 2025-09-09 092952 - Copy" src="https://github.com/user-attachments/assets/f968e5f1-7992-4ca2-95ec-fc1c75095106" />
 
 
-**New Sample Data Prediction**
 
-Include your sample input and output here
 
 **RESULT**
 
